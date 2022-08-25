@@ -40,4 +40,8 @@
           }
 
 
+
+
+**/// Library
+
 [![](https://jitpack.io/v/mfurkankucuk1/networkhelper.svg)](https://jitpack.io/#mfurkankucuk1/networkhelper)
